@@ -60,7 +60,7 @@
 | [linuxmint.com](https://linuxmint.com)         | تشبه ويندوز، خفيفة ومستقرة                     | Cinnamon / MATE / XFCE      | مبتدئ          | Linux Mint       |
 | [zorin.com](https://zorin.com/os/)             | واجهة تشبه ويندوز 11                           | Zorin Desktop                | مبتدئ          | Zorin OS         |
 | [ubuntu.com](https://ubuntu.com)               | أشهر توزيعة، دعم كبير وسهلة الاستخدام          | GNOME                        | مبتدئ - متوسط  | Ubuntu           |
-| [cachyos.org](https://cachyos.org/)             | أشهر توزيعة، دعم كبير وسهلة الاستخدام          | Cachyos                        | مبتدئ - متوسط  | Many           |
+| [cachyos.org](https://cachyos.org/)             | أشهر توزيعة، دعم كبير وسهلة الاستخدام          | KDE / Xfce , etc                        | مبتدئ - متوسط  | Cachyos           |
 | [elementary.io](https://elementary.io)         | تصميم أنيق مشابه لـ macOS                      | Pantheon                     | مبتدئ - متوسط  | elementary OS    |
 | [pop.system76.com](https://pop.system76.com)   | أداء قوي، مثالية للمبرمجين والألعاب            | GNOME + إضافات              | متوسط          | Pop!_OS          |
 | [getfedora.org](https://getfedora.org)         | حديثة ومستقرة وموجهة للمطورين                  | GNOME                        | متوسط          | Fedora           |
